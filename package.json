@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-material-icon-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancabral/nextjs-material-icon-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeancabral/nextjs-material-icon-sample/issues"
+  },
+  "homepage": "https://github.com/jeancabral/nextjs-material-icon-sample#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "material-icons-react": "^1.0.4",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
